@@ -1,0 +1,249 @@
+.product-child {
+  position: absolute;
+  top: -50px;
+  left: -60px;
+  border-radius: 30px;
+  width: 1088px;
+  height: 562px;
+}
+.in-stock,
+.product-sell {
+  position: absolute;
+  letter-spacing: -0.01em;
+}
+.product-sell {
+  top: 22px;
+  left: 38px;
+  font-size: 22px;
+  font-weight: 600;
+}
+.in-stock {
+  top: 16px;
+  left: 506px;
+  font-size: 14px;
+}
+.div {
+  top: 16px;
+  left: 664px;
+  font-weight: 500;
+  color: #000;
+}
+.abstract-3d,
+.div,
+.div1,
+.lorem-ipsum-dolor {
+  position: absolute;
+  letter-spacing: -0.01em;
+}
+.div1 {
+  top: 16px;
+  left: 815px;
+}
+.abstract-3d,
+.lorem-ipsum-dolor {
+  left: 116px;
+}
+.abstract-3d {
+  top: 4px;
+  font-weight: 600;
+}
+.lorem-ipsum-dolor {
+  top: 35px;
+  font-size: 12px;
+  color: #9197b3;
+}
+.unsplashwh2fhl0v-eo-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 8px;
+  width: 90px;
+  height: 56px;
+  object-fit: cover;
+}
+.abstract-3d-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 441px;
+  height: 56px;
+  font-size: 18px;
+  color: #000;
+}
+.in-stock-parent {
+  position: absolute;
+  top: 138px;
+  left: 38px;
+  width: 835px;
+  height: 56px;
+  color: #313131;
+}
+.sarphens-illustration {
+  position: absolute;
+  top: 4px;
+  left: 116px;
+  font-size: 18px;
+  letter-spacing: -0.01em;
+  font-weight: 600;
+}
+.in-stock1 {
+  left: 506px;
+  font-size: 14px;
+  color: #313131;
+}
+.div2,
+.div3,
+.in-stock1 {
+  position: absolute;
+  top: 16px;
+  letter-spacing: -0.01em;
+}
+.div2 {
+  left: 664px;
+  font-weight: 500;
+}
+.div3 {
+  left: 815px;
+  color: #313131;
+}
+.sarphens-illustration-parent {
+  position: absolute;
+  top: 218px;
+  left: 38px;
+  width: 835px;
+  height: 56px;
+}
+.collab-illustration-parent,
+.landing-page-3d-max-parent {
+  position: absolute;
+  top: 298px;
+  left: 38px;
+  width: 835px;
+  height: 56px;
+}
+.collab-illustration-parent {
+  top: 378px;
+}
+.price,
+.product-name,
+.stock,
+.total-sales {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+}
+.price,
+.stock,
+.total-sales {
+  left: 524px;
+}
+.price,
+.total-sales {
+  left: 677px;
+}
+.total-sales {
+  left: 787px;
+}
+.group-child,
+.product-name-parent {
+  position: absolute;
+  top: 0;
+  left: 38px;
+  width: 863px;
+  height: 21px;
+}
+.group-child {
+  top: 34.5px;
+  left: -0.5px;
+  border-top: 1px solid #eee;
+  box-sizing: border-box;
+  width: 969px;
+  height: 1px;
+}
+.group-parent {
+  position: absolute;
+  top: 83px;
+  left: 0;
+  width: 968px;
+  height: 35px;
+  font-size: 14px;
+  color: #b5b7c0;
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #f9fbff;
+  width: 216px;
+  height: 38px;
+}
+.search2 {
+  position: absolute;
+  top: 10px;
+  left: 40px;
+  letter-spacing: -0.01em;
+  border: none;
+}
+.search-1-icon1 {
+  position: absolute;
+  top: 7px;
+  left: 8px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 24px;
+  left: 544px;
+  width: 216px;
+  height: 38px;
+  font-size: 12px;
+  color: #b5b7c0;
+}
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #f9fbff;
+  width: 135px;
+  height: 38px;
+}
+.chevron-down-1-icon {
+  position: absolute;
+  top: 7px;
+  left: 100px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.last-30-days {
+  position: absolute;
+  top: 10px;
+  left: 15px;
+  letter-spacing: -0.01em;
+}
+.product1,
+.rectangle-group {
+  position: absolute;
+  top: 24px;
+  left: 785px;
+  width: 135px;
+  height: 38px;
+  font-size: 12px;
+  color: #7e7e7e;
+}
+.product1 {
+  top: 686px;
+  left: 71px;
+  width: 968px;
+  height: 472px;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Poppins;
+}

@@ -1,0 +1,24 @@
+.group-child1,
+.line-div {
+  position: absolute;
+  top: -0.5px;
+  left: 273.5px;
+  border-right: 1px solid #f0f0f0;
+  box-sizing: border-box;
+  width: 1px;
+  height: 88px;
+}
+.group-child1 {
+  left: 584.5px;
+}
+.group-container {
+  position: absolute;
+  top: 31px;
+  left: 63px;
+  width: 842px;
+  height: 87px;
+  text-align: left;
+  font-size: 14px;
+  color: #acacac;
+  font-family: Poppins;
+}

@@ -1,0 +1,268 @@
+.side-menu-child {
+  position: relative;
+  background-color: #050d73;
+  box-shadow: 0 10px 60px rgba(226, 236, 249, 0.5);
+  width: 306px;
+  height: 1045px;
+  z-index: 0;
+}
+.side-menu-item {
+  position: absolute;
+  margin: 0 !important;
+  top: 128px;
+  left: 28px;
+  border-radius: 8px;
+  background-color: #5932ea;
+  width: 250px;
+  height: 46px;
+  z-index: 1;
+}
+.icon-24-outline-key-squa {
+  position: absolute;
+  top: 10px;
+  left: 8px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.dashboard1 {
+  position: absolute;
+  top: 10px;
+  left: 45px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  
+}
+.list-menu {
+  position: absolute;
+  margin: 0 !important;
+  top: 139px;
+  left: 28px;
+  width: 250px;
+  height: 46px;
+  z-index: 2;
+  color: grey;
+  border-radius: 8px;
+}
+.product {
+  position: absolute;
+  top: 10px;
+  left: 45px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  
+}
+.chevron-right-2-icon {
+  position: absolute;
+  top: 12px;
+  left: 218px;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.list-menu1,
+.list-menu2,
+.list-menu3,
+.list-menu4,
+.list-menu5,
+.side-menu-inner {
+  position: absolute;
+  margin: 0 !important;
+  top: 203px;
+  left: 28px;
+  width: 250px;
+  height: 46px;
+  z-index: 3;
+  color: grey;
+  /* background-color: #4925e9; */
+  border-radius: 8px;
+}
+.list-menu2,
+.list-menu3,
+.list-menu4,
+.list-menu5,
+.side-menu-inner {
+  top: 267px;
+  z-index: 4;
+}
+.list-menu3,
+.list-menu4,
+.list-menu5,
+.side-menu-inner {
+  top: 331px;
+  z-index: 5;
+}
+.list-menu4,
+.list-menu5,
+.side-menu-inner {
+  top: 395px;
+  z-index: 6;
+}
+.list-menu5,
+.side-menu-inner {
+  top: 459px;
+  z-index: 7;
+}
+.side-menu-inner {
+  top: 970px;
+  left: 28px;
+  border-radius: 50%;
+  width: 42px;
+  height: 42px;
+  object-fit: cover;
+  z-index: 8;
+}
+
+.evano,
+.project-manager {
+  position: absolute;
+  left: 0;
+  letter-spacing: 0.01em;
+}
+.evano {
+  top: 0;
+  font-weight: 500;
+  color: white;
+}
+.project-manager {
+  top: 20px;
+  font-size: 12px;
+  color: #b7b7b7;
+}
+.chevron-down-2-icon,
+.evano-parent {
+  position: absolute;
+  margin: 0 !important;
+}
+.evano-parent {
+  top: 970px;
+  left: 82px;
+  width: 101px;
+  height: 38px;
+  z-index: 9;
+  color: #000;
+  /* background-color: #a1a1a182; */
+}
+.chevron-down-2-icon {
+  top: 970px;
+  left: 254px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 10;
+}
+.access-pro-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  background: linear-gradient(107.91deg, #eaabf0, #4623e9);
+  width: 250px;
+  height: 150px;
+}
+.upgrade-to-pro {
+  position: absolute;
+  top: 26px;
+  left: 34px;
+  letter-spacing: 0.01em;
+  font-weight: 600;
+  display: inline-block;
+  width: 183px;
+}
+.cta-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  background-color: #fff;
+  box-shadow: 2px 4px 4px rgba(79, 42, 234, 0.17);
+  width: 203px;
+  height: 40px;
+}
+.get-pro-now {
+  position: absolute;
+  top: 10px;
+  left: 55px;
+  letter-spacing: 0.01em;
+  font-weight: 600;
+}
+.access-pro,
+.cta {
+  position: absolute;
+  top: 88px;
+  left: 24px;
+  width: 203px;
+  height: 40px;
+  color: #4925e9;
+}
+.access-pro {
+  margin: 0 !important;
+  top: 884px;
+  left: 28px;
+  width: 250px;
+  height: 150px;
+  display: none;
+  z-index: 11;
+  text-align: center;
+  color: #fff;
+}
+.dashboard2 {
+  position: absolute;
+  top: 0;
+  left: 45px;
+  letter-spacing: 0.01em;
+  font-weight: 600;
+  color: white;
+}
+.setting-1-icon {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 37px;
+  height: 37px;
+  overflow: hidden;
+  background-color: gray;
+  border-radius: 50%;
+}
+.dashboard-parent,
+.v01 {
+  position: absolute;
+  margin: 0 !important;
+}
+.dashboard-parent {
+  top: 36px;
+  left: 28px;
+  width: 195px;
+  height: 39px;
+  z-index: 12;
+  font-size: 26px;
+  color: #000;
+}
+
+.side-menu {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: 4px;
+  text-align: left;
+  font-size: 14px;
+  color: #9197b3;
+  font-family: Poppins;
+}
+
+.list-menu:hover,
+.list-menu1:hover,
+.list-menu2:hover,
+.list-menu3:hover,
+.list-menu4:hover,
+.list-menu5:hover{
+  background-color:#97979798;
+  color: white;
+}
+
+
+

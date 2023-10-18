@@ -1,0 +1,288 @@
+.overview-child,
+.rectangle-div {
+  position: absolute;
+  top: -50px;
+  left: -60px;
+  border-radius: 30px;
+  width: 748px;
+  height: 498px;
+}
+.rectangle-div {
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #f9fbff;
+  width: 118px;
+  height: 38px;
+}
+.chevron-down-1-icon1 {
+  position: absolute;
+  top: 7px;
+  left: 83px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.quarterly {
+  position: absolute;
+  top: 10px;
+  left: 16px;
+  letter-spacing: -0.01em;
+}
+.rectangle-container {
+  position: absolute;
+  top: 27px;
+  left: 473px;
+  width: 118px;
+  height: 38px;
+  font-size: 12px;
+  color: #7e7e7e;
+}
+.overview1 {
+  top: 24px;
+  left: 38px;
+  font-size: 22px;
+  font-weight: 600;
+  color: #000;
+}
+.jan,
+.monthly-earning,
+.overview1 {
+  position: absolute;
+  letter-spacing: -0.01em;
+}
+.monthly-earning {
+  top: 61px;
+  left: 40px;
+  font-size: 14px;
+  color: #acacac;
+}
+.jan {
+  top: 325px;
+  left: 48px;
+}
+.feb,
+.jan,
+.mar {
+  font-weight: 500;
+}
+.feb {
+  position: absolute;
+  top: 325px;
+  left: 95px;
+  letter-spacing: -0.01em;
+}
+.mar {
+  left: 142px;
+}
+.apr,
+.mar,
+.may {
+  position: absolute;
+  top: 325px;
+  letter-spacing: -0.01em;
+}
+.apr {
+  left: 190px;
+  font-weight: 500;
+}
+.may {
+  left: 235px;
+}
+.jul,
+.jun,
+.may {
+  font-weight: 500;
+}
+.jun {
+  position: absolute;
+  top: 325px;
+  left: 283px;
+  letter-spacing: -0.01em;
+}
+.jul {
+  left: 332px;
+}
+.aug,
+.dec,
+.jul,
+.nov,
+.oct,
+.sep {
+  position: absolute;
+  top: 325px;
+  letter-spacing: -0.01em;
+}
+.aug {
+  left: 374px;
+  font-size: 10px;
+}
+.dec,
+.nov,
+.oct,
+.sep {
+  left: 424px;
+  font-weight: 500;
+}
+.dec,
+.nov,
+.oct {
+  left: 472px;
+}
+.dec,
+.nov {
+  left: 518px;
+}
+.dec {
+  left: 565px;
+}
+.overview-child1,
+.overview-inner,
+.overview-item {
+  position: absolute;
+  top: 202px;
+  left: 40px;
+  border-radius: 8px;
+  background-color: #f2efff;
+  width: 31px;
+  height: 111px;
+}
+.overview-child1,
+.overview-inner {
+  top: 171px;
+  left: 87px;
+  height: 142px;
+}
+.overview-child1 {
+  top: 137px;
+  left: 134px;
+  height: 176px;
+}
+.overview-child2,
+.overview-child3,
+.overview-child4,
+.overview-child5,
+.overview-child6 {
+  position: absolute;
+  top: 182px;
+  left: 181px;
+  border-radius: 8px;
+  background-color: #f2efff;
+  width: 31px;
+  height: 131px;
+}
+.overview-child3,
+.overview-child4,
+.overview-child5,
+.overview-child6 {
+  top: 219px;
+  left: 228px;
+  height: 94px;
+}
+.overview-child4,
+.overview-child5,
+.overview-child6 {
+  top: 182px;
+  left: 275px;
+  height: 131px;
+}
+.overview-child5,
+.overview-child6 {
+  top: 171px;
+  left: 322px;
+  height: 142px;
+}
+.overview-child6 {
+  top: 106px;
+  left: 364px;
+  background-color: #5932ea;
+  box-shadow: 0 8px 12px rgba(135, 145, 233, 0.3);
+  width: 40px;
+  height: 207px;
+}
+.overview-child10,
+.overview-child7,
+.overview-child8,
+.overview-child9 {
+  position: absolute;
+  top: 132px;
+  left: 416px;
+  border-radius: 8px;
+  background-color: #f2efff;
+  width: 31px;
+  height: 181px;
+}
+.overview-child10,
+.overview-child8,
+.overview-child9 {
+  top: 161px;
+  left: 463px;
+  height: 152px;
+}
+.overview-child10,
+.overview-child9 {
+  top: 202px;
+  left: 510px;
+  height: 111px;
+}
+.overview-child10 {
+  top: 145px;
+  left: 557px;
+  height: 168px;
+}
+.div8,
+.rectangle-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 62px;
+  height: 29.5px;
+}
+.div8 {
+  left: 20px;
+  letter-spacing: -0.01em;
+  font-weight: 600;
+  display: inline-block;
+  width: 25.5px;
+  height: 18px;
+}
+.parent,
+.vector-icon,
+.vector-icon1 {
+  position: absolute;
+  top: 4px;
+  left: -1px;
+  width: 16px;
+  height: 9px;
+}
+.parent,
+.vector-icon1 {
+  left: 10px;
+  width: 5px;
+  height: 5px;
+}
+.parent {
+  left: 9px;
+  width: 45.5px;
+  height: 18px;
+}
+.overview,
+.vector-parent {
+  position: absolute;
+  top: 68px;
+  left: 353px;
+  width: 62px;
+  height: 29.5px;
+  font-size: 12px;
+  color: #fff;
+}
+.overview {
+  top: 280px;
+  left: 71px;
+  width: 628px;
+  height: 378px;
+  text-align: left;
+  font-size: 8px;
+  color: #4f4f4f;
+  font-family: Poppins;
+}
